@@ -1,0 +1,19 @@
+#logo_img
+{
+    width: 130px;
+    height: 130px;
+}
+
+.copy_right_footer
+{
+  position: fixed;
+  bottom: 0;
+  width: 100%;  
+  text-align: center;
+}
+
+img:hover
+{
+  border-radius: 140px;
+}
+
